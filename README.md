@@ -18,7 +18,7 @@ CORDOVA 8.1.2
 
 Verifica a Versão do NODEJS: node -v
 
-Instala a Versão do IONIC e ANGULAR: npm install -g ionic-angular@3.9.2
+Instala a Versão do IONIC e ANGULAR: npm install -g ionic@3.9.2
 
 Verifica a Versão do IONIC: ionic info
 
