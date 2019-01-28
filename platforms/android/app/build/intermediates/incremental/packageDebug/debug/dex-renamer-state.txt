@@ -1,0 +1,4 @@
+#Mon Jan 28 08:46:28 BRST 2019
+base.0=/home/app/moodlemobile2/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

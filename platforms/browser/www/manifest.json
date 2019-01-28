@@ -1,0 +1,13 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Moodle",
+  "short_name": "Moodle",
+  "version": "com.moodle.moodlemobile",
+  "description": "Moodle official app",
+  "author": "Moodle Mobile team",
+  "icons": [],
+  "orientation": "any",
+  "start_url": "index.html",
+  "theme_color": "#4e8ef7"
+}
