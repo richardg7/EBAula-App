@@ -1,6 +1,12 @@
 EBAula App
 =================
 
+Projeto customizado por Richard Guedes.
+
+Linkedin: https://www.linkedin.com/in/richard-guedes/
+
+--------------
+
 Versões: 
 
 NODE 8.10.0
