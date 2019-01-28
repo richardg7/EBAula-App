@@ -1,11 +1,11 @@
 {
-  "name": "moodlemobile",
+  "name": "EBAula App",
   "integrations": {
     "cordova": {},
     "gulp": {}
   },
   "type": "ionic-angular",
   "watchPatterns": [],
-  "pro_id": "com.moodle.moodlemobile",
-  "id": "com.moodle.moodlemobile"
+  "pro_id": "1cb63801",
+  "id": "1cb63801"
 }
